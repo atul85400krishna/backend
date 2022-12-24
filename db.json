@@ -34,6 +34,9 @@
 
 ],
 
+
+
+
 "VlogBeach": [
     {
     "id": 1,
@@ -41,12 +44,7 @@
     "title": "The Best Properties In South Goa Under Rs 2000 For A Fabulous Vacation",
     "by": " Namita Mittal"
     },
-    {
-    "id": 2,
-    "image": "https://image.mux.com/pMwy3nH00LtaJB2VV00AZqZZaXGUFQQMyT/thumbnail.jpg?width=600&height=600&time=3.87",
-    "title": "Alleppey On A Budget - Places To Stay In Under 2K",
-    "by": "Namita Mittal"
-    },
+     
     {
     "id": 3,
     "image": "https://image.mux.com/yuG00ACN2007NdyiA4n3k1icnps2RAvLuf/thumbnail.jpg?width=600&height=600&time=3.03",
@@ -59,5 +57,56 @@
     "title": "Hidden Gems In Andaman And Nicobar Islands That You Must See #UndiscoveredIndia",
     "by": "Namita Mittal"
     }
-    ]
+    ],
+
+
+
+
+    "TopBeaches": [
+        {
+        "id": 1,
+        "image": "https://cdn1.tripoto.com/media/filter/tst/img/1339961/Image/1637909845_photo_1471922694854_ff1b63b20054.jpeg",
+        "prop": "BEACH FACING",
+        "title": "Cobo Serai: An Eco Luxury Resort For A Delightful Vacation",
+        "by": "Pankti Shah"
+        },
+        {
+        "id": 2,
+        "image": "https://cdn1.tripoto.com/media/filter/tst/img/1339961/Image/1638205527_1500880740_dune.jpg",
+        "prop": "ECO VILLAGE",
+        "title": "A Magnificent Dune Eco Village In Pondicherry",
+        "by": "Sonalika Debnath"
+        },
+        {
+        "id": 3,
+        "image": "https://cdn1.tripoto.com/media/filter/tst/img/1339961/Image/1638205722_1625457592_285221875.jpg",
+        "prop": "BUDGET TRAVELLERS",
+        "title": "Stays In Goa Under Rs 2000",
+        "by": "Kadambari Bhattae"
+        },
+        {
+        "id": 4,
+        "image": "https://cdn1.tripoto.com/media/filter/tst/img/1339961/Image/1638205736_1609417589_itc_g.jpg",
+        "prop": "COASTAL PROPERTIES",
+        "title": "Stunning Properties In Goa For All Kinds Of Travellers",
+        "by": "Yashodhara Roy"
+        },
+        {
+        "id": 5,
+        "image": "https://cdn1.tripoto.com/media/filter/tst/img/1339961/Image/1638205867_1558616335_1558616298_1463492584_pondy.jpg",
+        "prop": "INDIA'S BEST",
+        "title": "The Definitive Ranking Of Best Beach Resorts In India",
+        "by": "Sreshti Verma"
+        },
+        {
+        "id": 6,
+        "image": "https://cdn1.tripoto.com/media/filter/tst/img/1339961/Image/1638205414_1626007223_cover.jpg",
+        "prop": "LUXURY",
+        "title": "9 Georgious Sea Facing Properties In India",
+        "by": "Mastane Musafir"
+        }
+        ]
+
+
+        
 }
