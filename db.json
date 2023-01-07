@@ -204,9 +204,11 @@
                   "Price": 500000
                 }
               ],
+ 
+              "userSignup": [],
+  "userLogin": [],
+  "task": []
 
-              "userSignup":[],
 
-              "task":[]
         
 }
